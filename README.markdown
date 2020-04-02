@@ -132,7 +132,7 @@ The models chosen have been picked with regard to what makes most sense to a web
 Internally theres a bit of metaprogramming soup to make it easier to define color models correctly, and ensure that colors remain values. 
 
 # Demo
-* [Using color-js with Angular 2](https://plnkr.co:443/Y7scVM)
+* [Using color-js with Angular 2](https://plnkr.co/plunk/Y7scVM)
 
 # Changes
 
